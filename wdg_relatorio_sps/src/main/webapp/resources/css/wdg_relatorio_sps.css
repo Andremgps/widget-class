@@ -1,0 +1,20 @@
+/* Coloque aqui seu codigo CSS */
+.li-hover:hover {
+	background-color: #444444;
+	color: white;
+}
+
+.li-hover {
+	padding-left: 1em;
+}
+
+.selecionado {
+	background-color: #444444;
+	color: white;
+}
+.k-pdf-export .k-grid-toolbar,
+.k-pdf-export .k-pager-wrap, 
+.k-pdf-export .k-grouping-header
+{
+  display: none;
+}
